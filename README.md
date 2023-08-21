@@ -14,7 +14,7 @@ ___
 ___
 ### Запуск через Docker:
 
-#### Сборка проекта
+#### Сборка проекта c Docker:
 ```shell
 docker build -t telephone-book .
 ```
